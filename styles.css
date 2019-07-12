@@ -101,7 +101,7 @@ td {
 
 #index_table tr:nth-child(1) td{width: 18%;vertical-align: top;}
 
-#index_table tr:nth-child(1) img{width:150px; height:100px; background position: 50% 50%; background-repeat: no-repeat; background-size: cover;}
+#index_table tr:nth-child(1) img{width:150px; height:100px; background-position: 50% 50%; background-repeat: no-repeat; background-size: cover;}
 
 .sturdy{
   table-layout: fixed;
@@ -115,4 +115,15 @@ td {
 .sturdy td:nth-child(2){
   width: 75%;
   border: 1px solid black;
+}
+
+
+#first_table {;
+  width: 100%;
+  display: block;
+}
+
+#first_table tr:nth-child(1) td{width: 75%; vertical-align: center;}
+#first_table tr:nth-child(2) td{width: 25%; vertical-align: center;}
+#first_table tr:nth-child(2) img{max-width:200px; max-height:150px; background-position: 50% 50%; background-repeat: no-repeat; background-size: cover;
 }

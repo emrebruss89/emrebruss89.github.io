@@ -20,7 +20,7 @@ output:
 <td id="mytable", rowspan="7">
 <img src="WM_1_GSSHA_HMS.bmp" alt="Snow simulation at Senator Beck Basin in Colorado in GSSHA and HMS" style="width: 300px"</img>
 <br><br>
-<img src="wM_2_HEC-RAS.jpg" alt="HEC-RAS 3D Visualization Viewer" style="width: 300px"</img>
+<img src="WM_2_HEC-RAS.jpg" alt="HEC-RAS 3D Visualization Viewer" style="width: 300px"</img>
 </td>
 </tr>
 

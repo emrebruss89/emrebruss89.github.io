@@ -2,7 +2,7 @@
 title: "Coastal Storm & Flood Risk Management Mission"
 ---
 
-<table style="width:100%">
+<table id="first_table" >
 <tr>
 <td>
 <p>As part of the Corps’ Coastal Storm and Flood Risk Management mission, the Corps is responsible for more than 700 dams, operates over 400 major lakes and reservoirs, maintains 8,500 miles of levees, and has over 100 coastal storm damage reduction and related projects. In the U.S., flooding and impacts from coastal storms cost approximately $4 billion annually. Consequently, over the past several years, federal coastal storm damage reduction expenditures increased to more than $100 million per year to protect the public and related economic investments. 
@@ -10,7 +10,7 @@ title: "Coastal Storm & Flood Risk Management Mission"
 In managing flood and coastal storm damage reduction projects around the country for the public’s safety and benefit, the Corps’ challenge is to simultaneously optimize additional requirements for navigation, hydropower, water supply, environmental stewardship, and recreation while maintaining sustainable and adaptable watersheds. Challenges occur as existing infrastructure degrades with time, changing demographics increase the vulnerability of populations at risk, and environmental processes may increase intensity and frequency of extreme impacts. The Corps must have the most advanced capability to conduct risk-based assessments of alternative project designs and operational scenarios. Those capabilities must be robust, reliable, and comprehensive and lead to sustainable solutions.
 </p>
 </td>
-<td><img src="FCS_logo.png", width="250"</img></td>
+<td><img src="FCS_logo.png" width="200px"></img></td>
 </tr>
 </table>
 
