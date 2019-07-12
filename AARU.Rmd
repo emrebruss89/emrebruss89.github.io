@@ -1,0 +1,101 @@
+---
+title: "Focus Area: Alternative Analysis Risk & Uncertainty"
+output:
+  html_document:
+    css: styles.css
+---
+
+<table style="width:100%", border="0", cellpadding="5">
+<caption style="font-size: 20px">Fact Sheets</caption>
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Evaluate economic costs and benefits assoficated with beach nourishment and static flood risk management projects using Beach-fx and the Second Generation Coastal Risk Model (G2CRM)"; style="font-size: 16px;">
+  <p>• Beach-fx and G2CRM</p>
+</div>
+</body>
+</td>
+<td id="mytable", rowspan="8">
+<img src="AARU_1_CHS.jpg" alt="CHS output of non-linear residual results for storm surge" style="width: 300px"</img>
+<br><br>
+<img src="AARU_2_HMS.bmp" alt="HEC-HMS Graphical User Interface" style="width: 300px"</img>
+<br><br>
+<img src="AARU_3_HEC-WAT.bmp" alt="Average Annual exceedance probability grids to support floodplain mapping in HEC-WAT" style="width: 300px"</img>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Implement the Markov Chain Monte Carol simulation technique to quantify uncertainty in the Hydrologic Engineering Center Hydrologic Modeling System (HEC-HMS)"; style="font-size: 16px;">
+  <a href="06.19_FY19_AltAnalysisRisk_HMS-Uncertainty_Scharffenberg.pdf" target="_blank">• HEC-HMS Uncertainty</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Provide a national resource for probabilistic coastal hazard assessments as a database and web-based data minng and visualization tool for coastal hazards results"; style="font-size:16px;">
+  <a href="09.18_FY18_AltAnalysisRisk_CoastalHazardsSystem_Nadal.pdf" target="_blank">• Coastal Hazards System (CHS)</a>
+</div> 
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develop methods to estimate the risk and uncertainty of runoff from snowmelt in evaluations for dam safety, flood control designs, and related USACE projects"; style="font-size:16px;">
+  <p>• Risk & Uncertainty of Snowmelt</p>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Release Hydrologic Engineering Center Watershed Analysis Tool (HEC-WAT) software to assess risk and uncertainty in complex systems"; style="font-size:16px;">
+  <a href="06.19_FY19_AltAnalysisRisk_HMS-WAT_Lehman.pdf" target="_blank">• HEC-Watershed Analysis Tool (HEC-WAT)</a>
+</div>
+</body>
+</td>
+</tr>
+
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Broaden the Hydrologic Engineering Center Flood Impact Analysis (HEC-FIA) tool to evaluate lifecycle performance of projects analyzed by the Watershed Analysis Tool (HEC-WAT)"; style="font-size:16px;">
+  <a href="06.19_FY19_AltAnalysisRisk_HMS-FIA_Lehman.pdf" target="_blank">• HEC-FIA: Lifecycle Consequences</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Perform the first update to the Hydrologic Engineering Center Flood Damage Analysis (HEC-FDA) software"; style="font-size:16px;">
+  <a href="06.19_FY19_AltAnalysisRisk_HMS-FDA_Kucharski.pdf" target="_blank">• HEC-FDA</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develop a geodatabase to graphically depict reconstruction following flood event impacts"; style="font-size:16px;">
+  <a href="06.19_FY19_AltAnalysisRisk_PostStormRebuilding_Lehman.pdf" target="_blank">• Post-Storm Rebuilding Behavior</a>
+</div>
+</body>
+</td>
+</tr>
+</table>
+
+
+
+

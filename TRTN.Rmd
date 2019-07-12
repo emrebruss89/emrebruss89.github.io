@@ -1,0 +1,324 @@
+---
+title: "Tech Reports and Tech Notes"
+output:
+  html_document:
+    css: styles.css
+---
+<table style="width:100%">
+<caption style="font-size:20pt;">Jump to:</caption>
+<tr>
+<td align="center">
+<a href="#AARU">Alternative Analysis Risk & Uncertainty</a></td>
+<td align="center">
+<a href="#RCS">Resilient Coastal Systems</a></td>
+<td align="center">
+<a href="#WM">Watershed Management</a></td>
+<td align="center">
+<a href="#RI">Resilient Infrastructure</a></td>
+<td align="center">
+<a href="#EM">Emergency Management</a></td>
+</tr>
+</table>
+
+<table class="sturdy">
+<a id="AARU"><caption style="font-size:18pt">Alternative Analysis Risk & Uncertainty</caption></a>
+<tr>
+<td rowspan="2", align="center">
+Tool Manuals
+</td>
+<td>
+<a href="file://share.hec.usace.army.mil/USACE/Kucharski/GeoFda/Users%20Manual/">GeoFDA User's Manual</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="file://share.hec.usace.army.mil/USACE/Kucharski/GeoFda/Quick%20Start%20Guide/">GeoFDA Quick Start Guide</a>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>
+
+<table class="sturdy">
+<a id="RCS"><caption style="font-size:18pt">Resilient Coastal Systems</caption></a>
+<tr>
+<td align="center">
+Tool Manuals
+</td>
+<td>
+<a href="https://github.com/NOAA-EMC/WW3/wiki/files/manual.pdf">WaveWatch III v6.07 Manual</a>
+</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center">
+2019
+</td>
+
+<td>
+<a href="https://erdc-library.erdc.dren.mil/xmlui/bitstream/handle/11681/32543/ERDC-CHL%20CHETN-IV-117.pdf?sequence=3&isAllowed=y">Basic Logic for the Construction of an AdH Estuarine Model</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="http://erdc.summon.serialssolutions.com/?q=adaptive+hydraulics#!/search/document?ho=t&l=en&q=adaptive%20hydraulics&id=FETCHMERGED-erdc_reports_3000163">Hydrodynamic, salinity, and morphological modeling study of a sediment diversion: an application of the Adaptive Hydraulics Model/SEDLIB Sediment Transport Library
+</a>
+</td>
+</tr>
+
+<tr>
+<td rowspan="10" align="center">
+2018
+</td>
+
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1063089.pdf">Modeling sluice gates in Adaptive Hydraulics (AdH) 
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://usace.contentdm.oclc.org/digital/collection/p266001coll1/id/7750/">Modeling flap gates culverts in Adaptive Hydraulics (AdH)
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.swg.usace.army.mil/Portals/26/docs/Planning/Public%20Notices-Civil%20Works/Coastal-TX%20DIFR-EIS/Appendix%20C-6%20-%20Draft%20CZMA%20ConsistDetermination.pdf?ver=2018-10-24-151940-057">Coastal Texas Region 1 (CTR1) Estuarine Numerical Modeling Report
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a615122.pdf">Three-Dimensional Shallow Water Adaptive Hydraulics (AdH-SW3) Modeling of Mobile Bay, Alabama
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1064153.pdf">Formulation, Implementation and Testing of the Diffusive Wave (DW) Module of Adaptive Hydraulics (AdH)
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1064152.pdf
+">Numerical framework to link the Adaptive Hydraulics (AdH) Code to the Nutrient Simulation Module-I (NSMI)
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://usace.contentdm.oclc.org/digital/collection/p266001coll1/id/7852/">Mississippi River: Natchez To Baton Rouge hydraulic and sediment transport model</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1063041.pdf
+">Modeling Flap Gate Culverts in Adaptive Hydraulics (AdH)</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1063041.pdf">Modeling Flap Gate Culverts in Adaptive Hydraulics (AdH) PART 2</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://erdc-library.erdc.dren.mil/xmlui/handle/11681/31337">Hydraulic Modeling of Extreme Flows for the White Sands Missile Range Using Adaptive Hydraulics (AdH)</a>
+</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center">
+2017
+</td>
+
+<td>
+<a href="https://usace.contentdm.oclc.org/digital/collection/p266001coll1/id/4204/">Erosion of Coastal Foredunes: A Review of the Effect of Dune Vegetation 
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.swg.usace.army.mil/Portals/26/docs/Planning/Public%20Notices-Civil%20Works/HSC%20ECIP%20DIFR-EIS/App%20P%20Oyster%20Mitigation%20Plan%202%20Aug%202017.pdf?ver=2017-08-23-123734-663">Houston Ship Channel Expansion Channel Improvement Project (ECIP) Numerical Modeling Report
+</a>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>
+
+<table class="sturdy">
+<a id="WM"><caption style="font-size:18pt">Watershed Management</caption></a>
+<tr>
+<td align="center">
+Tool Manuals
+</td>
+<td>
+<a href="https://www.hec.usace.army.mil/software/hec-ras/documentation.aspx">HEC-RAS 5.0 Manuals</a>
+</td>
+</tr>
+
+<tr>
+<td rowspan="6" align="center">
+2019
+</td>
+
+<td>
+<a href="https://www.sedhyd.org/2019/openconf/modules/request.php?module=oc_program&action=view.php&id=220&file=1/220.pdf">Evaluating Post-wildfire Impacts to Cochiti Lake flood risk management: Las Conchas Wildfire, New Mexico
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.sedhyd.org/2019/openconf/modules/request.php?module=oc_program&action=view.php&id=208&file=1/208.pdf">Development of 'Debris Library' and 1D HEC-RAS and 2D Adaptive Hydraulics Linkage-Architecture for Predicting Post-wildfire non-Newtonian flows
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.sedhyd.org/2019/openconf/modules/request.php?module=oc_program&action=view.php&id=308&file=1/308.pdf">Newtonian and Non-Newtonian sediment fluid flow in 2D Hydrodynamic runoff model
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.sedhyd.org/2019/openconf/modules/request.php?module=oc_program&action=view.php&id=58&file=1/58.pdf">Snowmelt simulation enhancement within HEC-HMS
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1074727.pdf">Evaluating Post-wildfire Impacts to flood risk management (FRM): Las Conchas Wildfire - New Mexico
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://erdc-library.erdc.dren.mil/xmlui/handle/11681/33003">Overview of Historical Reservoir Flushing Events and Screening Guidance</a>
+</td>
+</tr>
+
+<tr>
+<td rowspan="4" align="center">
+2018
+</td>
+
+<td>
+<a href="https://www.hec.usace.army.mil/software/hec-hms/documentation/HEC-HMS_QuickStart_Guide_4.3.pdf">Hydrologic Modeling System HEC-HMS User's Manual Version 4.3 September 2018
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.hec.usace.army.mil/software/hec-hms/documentation/HEC-HMS_Users_Manual_4.3.pdf">Hydrologic Modeling System HEC-HMS Quick Start Guide Version 4.3 September 2018
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.hec.usace.army.mil/software/hec-ras/documentation/RD-52_HEC-RAS%20Verification%20and%20Validation.pdf">Research Document 52.  HEC-RAS Verification and Validation document
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.hec.usace.army.mil/software/hec-ras/documentation/RD-51_Benchmarking_2D.pdf">Research Document 51.  Benchmarking of the HEC-RAS 2D Hydraulic Modeling Capabilities
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+2017
+</td>
+
+<td>
+<a href="https://operations.erdc.dren.mil/Flood/pdfs/FRM-1704.pdf">Post-wildfire impacts to USACE Flood Risk Management</a>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>
+
+
+<table class="sturdy">
+<a id="RI"><caption style="font-size:18pt">Resilient Infrastructure</caption></a>
+<tr>
+<td rowspan="2", align="center">
+2016
+</td>
+<td>
+<a href="http://hdl.handle.net/11681/21563">A Bayesian analysis of the flood frequency hydrology concept</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="http://hdl.handle.net/11681/21566">Bayesian inference of nonstationary precipitation intensity-duration-frequency curves for infrastructure design</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+2014
+</td>
+
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a613391.pdf">Discussions on Laboratory Testing of Backwards Erosion Piping of Soil: Interview with John H. Schmertmann and Frank C. Townsend</a>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>
+
+<table class="sturdy">
+<a id="EM"><caption style="font-size:18pt">Emergency Management</caption></a>
+<tr>
+<td rowspan="2", align="center">
+2019
+</td>
+<td>
+<a href="https://apps.dtic.mil/docs/citations/AD1067894">Geospatial Accuracy of Small Unmanned Airborne System Data in the Coastal Environment</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1070326.pdf">Post-Irma Unmanned Aircraft System (UAS) Coastal Storm Impact Surveys</a>
+</td>
+</tr>
+
+<td rowspan="2", align="center">
+2018
+</td>
+<td>
+<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1064151.pdf">Evaluation of Unmanned Aircraft Systems for Flood Risk Management: Field Experiment Conspectus</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://apps.dtic.mil/docs/citations/AD1061251">Unmanned Aircraft Systems to Support Environmental Applications within USACE Civil Works
+</a>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>

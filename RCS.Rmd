@@ -1,0 +1,115 @@
+---
+title: "Focus Area: Resilient Coastal Systems"
+output:
+  html_document:
+    css: styles.css
+---
+
+<table style="width:100%", border="0", cellpadding="5">
+<caption style="font-size: 20px">Fact Sheets</caption>
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Upgrades to the community phase-averaged wave model WAVEWATCH III"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientCoastalSystems_UnstructuredWaveModeling_Smith.pdf" target="_blank">• Unstructured modeling of Coastal Waves</a>
+</div>
+</body>
+</td>
+<td id="mytable", rowspan="10">
+<img src="RCS_1_Dunes.bmp" alt="Windsurf modeling suite conceptual diagram" style="width: 300px"</img>
+<br><br>
+<img src="RCS_2_FUNWAVE.jpg" alt="Nearshore wave processes conceptual diagram" style="width: 300px"</img>
+<br><br>
+<img src="RCS_3_AdH.bmp" alt="AdH example mesh" style="width: 300px"</img>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Laboratory experiements to quantify vegetation biomass density on dune morphology"; style="font-size:16px;">
+  <a href="09.18_FY18_ResilientCoastalSystems_DuneBiomass_Bryant.pdf" target="_blank">• Benefits of Above & Below-ground Biomass on Dune Evolution</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Increase District and DoD accessibility to FUNWAVE to help solve large-scale nearshore-processes problems"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientCoastalSystems_FUNWAVE_Malej.pdf" target="_blank">• FUNWAVE - A Phase-Resolving Nearshore Numerical Wave Model</a>
+</div> 
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Updates to the Adaptive Hydraulics (AdH) model for simulating hydraulics and sediment transport"; style="font-size:16px;">
+  <a href="09.18_FY18_ResilientCoastalSystems_AdH_Trahan.pdf" target="_blank">• Adaptive Hydraulics Development</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Utilize coastal field data resources from the USACE Field Research Facility in Duck, NC to validate and improve nearshore numerical models"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientCoastalSystems_NearshoreProcesses_Johnson.pdf" target="_blank">• Nearshore Processes</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develops methodology to evaluate benefits of vegetated shorelines using numerical modeling and field studies"; style="font-size:16px;">
+  <a href="09.18_FY18_ResilientCoastalSystems_NNBF_Ding.pdf" target="_blank">• Resilience of Natural & Nature Based Features for FRM</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Field and numerical modeling approach to investigate spatio-temporal patterns in dune growth and erosion"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientCoastalSystems_CoastalDunes_Cohn.pdf" target="_blank">• Resilience of Coastal Dunes</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Development of the Coastal Storm Modeling System (CSTORM-MS) Coupling Framework to allow hydrodynamic models (ADCIRC/AdH) and wave models (WAVE WATCH III) to be coupled together"; style="font-size:16px;">
+  <a href="">• CSTORM-MS</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Update design guidance to advance coastal structure stochastic science and engineering technologies"; style="font-size:16px;">
+  <a href="09.18_FY18_ResilientCoastalSystems_StochasticForcing_Nadal.pdf" target="_blank">• Stochastic Forcing for Coastal Structure Design</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="top">
+<body>
+<div tooltip="Support US Coastal Research Program  (USCRP), an interagency initiative to develop a national, coordinated coastal research program"; style="font-size:16px;">
+  <a href="09.18_FY18_ResilientCoastalSystems_USCRP_Cialone.pdf" target="_blank">• Nearshore Advancements for the US Coastal Research Program</a>
+</div>
+</body>
+</td>
+</tr>

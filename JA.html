@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Journal Articles</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><div id="titlecolor">Flood & Coastal Systems</div></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    R&amp;D Work Units
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="AARU.html">Alternative Analysis Risk &amp; Uncertainty</a>
+    </li>
+    <li>
+      <a href="RCS.html">Resilient Coastal Systems</a>
+    </li>
+    <li>
+      <a href="WM.html">Watershed Management</a>
+    </li>
+    <li>
+      <a href="RI.html">Resilient Infrastructure</a>
+    </li>
+    <li>
+      <a href="EM.html">Emergency Management</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="Tools.html">Tools</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Publications
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="TRTN.html">Tech Reports/Notes</a>
+    </li>
+    <li>
+      <a href="JA.html">Journal Articles</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="https://wiki.erdc.dren.mil/Flood_%26_Coastal_Systems_Program">Wiki</a>
+</li>
+<li>
+  <a href="contact.html">Contact</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Journal Articles</h1>
+
+</div>
+
+
+<table style="width:100%">
+<caption style="font-size:20pt;">
+Jump to:
+</caption>
+<tr>
+<td align="center">
+Alternative Analysis Risk &amp; Uncertainty
+</td>
+<td align="center">
+<a href="#RCS">Resilient Coastal Systems</a>
+</td>
+<td align="center">
+<a href="#WM">Watershed Management</a>
+</td>
+<td align="center">
+<a href="#RI">Resilient Infrastructure</a>
+</td>
+<td align="center">
+<a href="#EM">Emergency Management</a>
+</td>
+</tr>
+</table>
+<table class="sturdy">
+<a id="RCS">
+<caption style="font-size:18pt;">
+Resilient Coastal Systems
+</caption>
+</a>
+<tr>
+<td rowspan="5" , align="center">
+2019
+</td>
+<td>
+<p class="hangingindent">
+Brodie, K., Conery, I., Cohn, N., Spore, N., &amp; Palmsten, M. (2019). Spatial Variability of Coastal Foredune Evolution, Part A: Timescales of Months to Years. Journal of Marine Science and Engineering, 7(5), 124. <a href="https://doi.org/10.3390/jmse7050124" class="uri">https://doi.org/10.3390/jmse7050124</a>
+<p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Cohn, N., Hoonhout, B., Goldstein, E., De Vries, S., Moore, L., Durán Vinent, O., &amp; Ruggiero, P. (2019). Exploring Marine and Aeolian Controls on Coastal Foredune Growth Using a Coupled Numerical Model. Journal of Marine Science and Engineering, 7(1), 13. <a href="https://doi.org/10.3390/jmse7010013" class="uri">https://doi.org/10.3390/jmse7010013</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Bryant, D. B., Anderson Bryant, M., Sharp, J. A., Bell, G. L., &amp; Moore, C. (2019). The response of vegetated dunes to wave attack. Coastal Engineering, 152, 103506. <a href="https://doi.org/10.1016/j.coastaleng.2019.103506" class="uri">https://doi.org/10.1016/j.coastaleng.2019.103506</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Savant, G., Trahan, C. J., Pettey, L., McAlpin, T. O., Bell, G. L., &amp; McKnight, C. J. (2019). Urban and overland flow modeling with dynamic adaptive mesh and implicit diffusive wave equation solver. Journal of Hydrology, 573, 13–30. <a href="https://doi.org/10.1016/j.jhydrol.2019.03.061" class="uri">https://doi.org/10.1016/j.jhydrol.2019.03.061</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Savant, G., McAlpin, T. O., &amp; Trahan, C. J. (2019). Streamline Upwind Petrov-Galerkin–Based Shallow Water Model for Large-Scale Geophysical Flows in Cartesian and Spherical Coordinates. Journal of Waterway, Port, Coastal, and Ocean Engineering, 145(5), 4019017. <a href="https://doi.org/10.1061/(asce)ww.1943-5460.0000521" class="uri">https://doi.org/10.1061/(asce)ww.1943-5460.0000521</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" , align="center">
+2018
+</td>
+<td>
+<p class="hangingindent">
+Cavaleri, L., Abdalla, S., Benetazzo, A., Bertotti, L., Bidlot, J.-R., Breivik, Ø., … van der Westhuysen, A. J. (2018). Wave modelling in coastal and inner seas. Progress in Oceanography, 167, 164–233. <a href="https://doi.org/10.1016/j.pocean.2018.03.010" class="uri">https://doi.org/10.1016/j.pocean.2018.03.010</a>
+<p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Savant, G., Trahan, C. J., Berger, C., McAlpin, J. T., &amp; McAlpin, T. O. (2018). Refinement Indicator for Dynamic-Mesh Adaption in Three-Dimensional Shallow-Water Equation Modeling. Journal of Hydraulic Engineering, 144(2), 6017026. <a href="https://doi.org/10.1061/(asce)hy.1943-7900.0001394" class="uri">https://doi.org/10.1061/(asce)hy.1943-7900.0001394</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Trahan, C. J., Savant, G., Berger, R. C., Farthing, M., McAlpin, T. O., Pettey, L., … Dawson, C. N. (2018). Formulation and application of the adaptive hydraulics three-dimensional shallow water and transport models. Journal of Computational Physics, 374, 47–90. <a href="https://doi.org/10.1016/j.jcp.2018.04.055" class="uri">https://doi.org/10.1016/j.jcp.2018.04.055</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" , align="center">
+2017
+</td>
+<td>
+<p class="hangingindent">
+Jensen, R. E., Cialone, A., Smith, J. M., Bryant, M. A., &amp; Hesser, T. J. (2017). Regional Wave Modeling and Evaluation for the North Atlantic Coast Comprehensive Study. Journal of Waterway, Port, Coastal, and Ocean Engineering, 143(2), B4016001. <a href="https://doi.org/10.1061/(asce)ww.1943-5460.0000342" class="uri">https://doi.org/10.1061/(asce)ww.1943-5460.0000342</a>
+<p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Wilkin, J., Rosenfeld, L., Allen, A., Baltes, R., Baptista, A., He, R., … Smith, J. (2017). Advancing coastal ocean modelling, analysis, and prediction for the US Integrated Ocean Observing System. Journal of Operational Oceanography, 10(2), 115–126. <a href="https://doi.org/10.1080/1755876x.2017.1322026" class="uri">https://doi.org/10.1080/1755876x.2017.1322026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Savant, G., Berger, C., Trahan, C. J., &amp; McAlpin, T. O. (2017). A Mass-Conservative Finite-Element Numerical Code for Three Dimensional Flows. In World Environmental and Water Resources Congress 2017. American Society of Civil Engineers. <a href="https://doi.org/10.1061/9780784480625.006" class="uri">https://doi.org/10.1061/9780784480625.006</a>
+</p>
+</td>
+</tr>
+</table>
+<p><a href="#top">Back to top</a></p>
+<table class="sturdy">
+<a id="WM">
+<caption style="font-size:18pt;">
+Watershed Management
+</caption>
+</a>
+<tr>
+<td rowspan="3" , align="center">
+2019
+</td>
+<td>
+<p class="hangingindent">
+Gibson, S., Osorio, A., Creech, C., Amorim, R., Dircksen, M., Dahl, T., &amp; Koohafkan, M. (2019). Two pool-to-pool spacing periods on large sand-bed rivers: Mega-pools on the Madeira and Mississippi. Geomorphology, 328, 196–210. <a href="https://doi.org/10.1016/j.geomorph.2018.12.021" class="uri">https://doi.org/10.1016/j.geomorph.2018.12.021</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Gibson, S., Ramos, K., Dahl, T., Webber, J. B., &amp; Vuyovich, C. (2019). Comparing Ice Jam Hindcasting Models with Tree Scar Data. Journal of Cold Regions Engineering, 33(3), 4019006. <a href="https://doi.org/10.1061/(asce)cr.1943-5495.0000186" class="uri">https://doi.org/10.1061/(asce)cr.1943-5495.0000186</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Pradhan, N. R. (2019). Estimating growing-season root zone soil moisture from vegetation index-based evapotranspiration fraction and soil properties in the Northwest Mountain region, USA. Hydrological Sciences Journal, 64(7), 771–788. <a href="https://doi.org/10.1080/02626667.2019.1593417" class="uri">https://doi.org/10.1080/02626667.2019.1593417</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" , align="center">
+2018
+</td>
+<td>
+<p class="hangingindent">
+Kondolf, G. M., Schmitt, R. J. P., Carling, P., Darby, S., Arias, M., Bizzi, S., … Wild, T. (2018). Changing sediment budget of the Mekong: Cumulative threats and management strategies for a large river basin. Science of The Total Environment, 625, 114–134. <a href="https://doi.org/10.1016/j.scitotenv.2017.11.361" class="uri">https://doi.org/10.1016/j.scitotenv.2017.11.361</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Koohafkan, M. C., &amp; Gibson, S. (2018). Geomorphic trajectory and landform analysis using graph theory: A panel data approach to quantitative geomorphology. Progress in Physical Geography: Earth and Environment, 42(6), 679–696. <a href="https://doi.org/10.1177/0309133318783143" class="uri">https://doi.org/10.1177/0309133318783143</a>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+2017
+</td>
+<td>
+<p class="hangingindent">
+Gibson, S. A., &amp; Cai, C. (2017). Flow Dependence of Suspended Sediment Gradations. Water Resources Research, 53(11), 9546–9563. <a href="https://doi.org/10.1002/2016wr020135" class="uri">https://doi.org/10.1002/2016wr020135</a>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+2015
+</td>
+<td>
+<p class="hangingindent">
+<p>Pak, J. H., Fleming, M., Scharffenberg, W., Gibson, S., &amp; Brauer, T. (2015). Modeling Surface Soil Erosion and Sediment Transport Processes in the Upper North Bosque River Watershed, Texas. Journal of Hydrologic Engineering, 20(12), 4015034. <a href="https://doi.org/10.1061/(asce)he.1943-5584.0001205" class="uri">https://doi.org/10.1061/(asce)he.1943-5584.0001205</a></p>
+</p>
+</td>
+</tr>
+</table>
+<p><a href="#top">Back to top</a></p>
+<table class="sturdy">
+<a id="RI">
+<caption style="font-size:18pt;">
+Resilient Infrastructure
+</caption>
+</a>
+<tr>
+<td rowspan="3" , align="center">
+2019
+</td>
+<td>
+<p class="hangingindent">
+Langat, Kumar, &amp; Koech. (2019). Identification of the Most Suitable Probability Distribution Models for Maximum, Minimum, and Mean Streamflow. Water, 11(4), 734. <a href="https://doi.org/10.3390/w11040734" class="uri">https://doi.org/10.3390/w11040734</a>
+<p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+van Beek, V. M., Robbins, B. A., Hoffmans, G. J. C. M., Bezuijen, A., &amp; van Rijn, L. C. (2019). Use of incipient motion data for backward erosion piping models. International Journal of Sediment Research. <a href="https://doi.org/10.1016/j.ijsrc.2019.03.001" class="uri">https://doi.org/10.1016/j.ijsrc.2019.03.001</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Robbins, B. A., &amp; Griffiths, D. V. (2019). A new fragment for seepage beneath impervious structures. Géotechnique, 69(2), 174–179. <a href="https://doi.org/10.1680/jgeot.17.p.209" class="uri">https://doi.org/10.1680/jgeot.17.p.209</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" , align="center">
+2018
+</td>
+<td>
+<p class="hangingindent">
+Schultz, Martin &amp; Tracy, Ffred &amp; Ellithy, Ghada &amp; Harrelson, Danny &amp; Ryder, Jodi &amp; K. Corcoran, Maureen. (2018). Characterizing the Reliability of Earthen Levees Using System Response Curves derived from Uncertainty Analysis of Geotechnical Simulation Models.
+<p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Robbins, B. A., Stephens, I. J., Leavell, D. A., López-Soto, J. F., &amp; Montalvo-Bartolomei, A. M. (2018). Laboratory piping tests on fine gravel. Canadian Geotechnical Journal, 55(11), 1552–1563. <a href="https://doi.org/10.1139/cgj-2016-0350" class="uri">https://doi.org/10.1139/cgj-2016-0350</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Wibowo, J. L., &amp; Robbins, B. A. (2018). Discussion of “Erosion Charts for Selected Geomaterials” by Jean-Louis Briaud, Anand V. Govindasamy, and Iman Shafii. Journal of Geotechnical and Geoenvironmental Engineering, 144(10), 7018024. <a href="https://doi.org/10.1061/(asce)gt.1943-5606.0001948" class="uri">https://doi.org/10.1061/(asce)gt.1943-5606.0001948</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Robbins, B. A., Stephens, I. J., Van Beek, V. M., Koelewijn, A. R., &amp; Bezuijen, A. (2019). Field measurements of sand boil hydraulics. Géotechnique, 1–8. <a href="https://doi.org/10.1680/jgeot.18.p.151" class="uri">https://doi.org/10.1680/jgeot.18.p.151</a>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="hangingindent">
+Robbins, B. A., van Beek, V. M., López-Soto, J. F., Montalvo-Bartolomei, A. M., &amp; Murphy, J. (2018). A novel laboratory test for backward erosion piping. International Journal of Physical Modelling in Geotechnics, 18(5), 266–279. <a href="https://doi.org/10.1680/jphmg.17.00016" class="uri">https://doi.org/10.1680/jphmg.17.00016</a>
+</p>
+</td>
+</tr>
+</table>
+<p><a href="#top">Back to top</a></p>
+<table class="sturdy">
+<a id="EM">
+<caption style="font-size:18pt;">
+Emergency Management
+</caption>
+</a>
+<tr>
+<td align="center">
+2019
+</td>
+<td>
+<p class="hangingindent">
+Brodie, K. L., Bruder, B. L., Slocum, R. K., &amp; Spore, N. J. (2019). Simultaneous Mapping of Coastal Topography and Bathymetry From a Lightweight Multicamera UAS. IEEE Transactions on Geoscience and Remote Sensing, 1–21. <a href="https://doi.org/10.1109/tgrs.2019.2909026" class="uri">https://doi.org/10.1109/tgrs.2019.2909026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+2017
+</td>
+<td>
+<p class="hangingindent">
+Holman, R. A., Brodie, K. L., &amp; Spore, N. J. (2017). Surf Zone Characterization Using a Small Quadcopter: Technical Issues and Procedures. IEEE Transactions on Geoscience and Remote Sensing, 55(4), 2017–2027. <a href="https://doi.org/10.1109/tgrs.2016.2635120" class="uri">https://doi.org/10.1109/tgrs.2016.2635120</a>
+</p>
+</td>
+</tr>
+</table>
+<p><a href="#top">Back to top</a></p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

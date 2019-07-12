@@ -1,0 +1,118 @@
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+
+.caption {
+  caption-side: top;
+  font-size: 18px;
+  
+}
+
+[tooltip]:before {
+    /* needed - do not touch */
+    content: attr(tooltip);
+    position: absolute;
+    opacity: 0;
+    left: 60%;
+    
+    /* customizable */
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px silver;    
+}
+
+
+[tooltip]:hover:before {
+    /* needed - do not touch */
+    opacity: 1;
+    display: inline-block;
+    white-space:pre-wrap;
+    
+    /* customizable */
+    background: #a6bddb;
+    margin-top: -5px;
+    width: 500px;    
+    max-width: 480px;
+    top: -5px;
+    left: 60%;
+    z-index: 9999;
+}
+
+
+[tooltip] {
+  position: relative;
+}
+
+#mytable {
+  text-align:center;
+  width: 400px;}
+  
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+body {
+  background-color: #ece7f2;
+  margin: 20px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: lightblue; /*Sets the text hover color on navbar*/
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >
+        a:hover, .navbar-default .navbar-nav > .active > a:focus {; /*BACKGROUND color for active*/;
+}
+
+.navbar-default {
+    background-color: #0f006f;
+    border-color: #030033;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+    color: #262626;
+    text-decoration: none;
+    background-color: #66CCFF; /*change color of links in drop down here*/
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+    text-decoration: underline;
+    background-color: silver; /*Change rollover cell color here*/
+}
+
+#titlecolor {
+  color: white;
+  text-align: right;
+}
+
+td {
+  padding: 5px;}
+  
+#index_table {
+  table-layout: fixed;
+  width: 100%;
+  text-align:center;
+  display: block;
+}
+
+#index_table tr:nth-child(1) td{width: 18%;vertical-align: top;}
+
+#index_table tr:nth-child(1) img{width:150px; height:100px; background position: 50% 50%; background-repeat: no-repeat; background-size: cover;}
+
+.sturdy{
+  table-layout: fixed;
+  border: 1px solid black;
+  width: 100%;
+}
+.sturdy td:nth-child(1){
+  width: 25%;
+  border: 1px solid black;
+}
+.sturdy td:nth-child(2){
+  width: 75%;
+  border: 1px solid black;
+}

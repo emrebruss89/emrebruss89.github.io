@@ -1,0 +1,36 @@
+name: "Flood & COastal Systems"
+navbar:
+  title: <div id="titlecolor">Flood & Coastal Systems</div>
+  href: index.html
+  right: 
+    - text: "R&D Work Units"
+      menu: 
+        - text: "Alternative Analysis Risk & Uncertainty"
+          href: AARU.html
+        - text: "Resilient Coastal Systems"
+          href: RCS.html
+        - text: "Watershed Management"
+          href: WM.html
+        - text: "Resilient Infrastructure"
+          href: RI.html
+        - text: "Emergency Management"
+          href: EM.html
+      href: index.html
+    - text: "Tools"
+      href: Tools.html
+    - text: "Publications"
+      menu: 
+        - text: "Tech Reports/Notes"
+          href: TRTN.html
+        - text: "Journal Articles"
+          href: JA.html
+    - text: "Wiki"
+      href: https://wiki.erdc.dren.mil/Flood_%26_Coastal_Systems_Program
+    - text: "Contact"
+      href: contact.html
+    
+
+output_dir: "."
+output:
+  html_document:
+    css: styles.css

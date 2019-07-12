@@ -1,0 +1,27 @@
+---
+title: "Focus Area: Emergency Mangaement"
+output:
+  html_document:
+    css: styles.css
+---
+
+<table style="width:100%", border="0", cellpadding="5">
+<caption style="font-size: 20px">Fact Sheets</caption>
+<tr>
+<td align="left", valign="top">
+<body>
+<div tooltip="Development of the StormSim-Coastal Hazard Rapid Prediction (CHRP) web tool to forecast storm hazards"; style="font-size: 16px;">
+  <a href="09.18_FY18_EmergencyManagement_CHRP_Nadal.pdf" target="_blank">• Coastal Hazard Rapid Prediction (CHRP)</a></div>
+  <br><br>
+  <div tooltip="Develop Unmanned Aerial System (UAS)-based methodologies and data products to improve USACE flood risk management"; style="font-size: 16px;">
+  <a href="06.19_FY19_EmergencyManagement_UAS_Brodie.pdf" target="_blank">• Unmanned Aerial Systems to support FRM</a>
+</div>
+</body>
+</td>
+<td id="mytable", rowspan="1">
+<img src="EM_1_CHRP.bmp" alt="StormSim-CHRP web tool" style="width: 300px"</img>
+<br><br>
+<img src="EM_2_UAS.bmp" alt="UAS post-Hurricane Irma imagery from Florida" style="width: 300px"</img>
+</td>
+</tr>
+</table>

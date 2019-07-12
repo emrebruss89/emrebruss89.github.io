@@ -1,0 +1,271 @@
+---
+title: "Journal Articles"
+output:
+  html_document:
+    css: styles.css
+#output_dir: "."
+---
+<table style="width:100%">
+<caption style="font-size:20pt;">Jump to:</caption>
+<tr>
+<td align="center">
+Alternative Analysis Risk & Uncertainty</td>
+<td align="center">
+<a href="#RCS">Resilient Coastal Systems</a></td>
+<td align="center">
+<a href="#WM">Watershed Management</a></td>
+<td align="center">
+<a href="#RI">Resilient Infrastructure</a></td>
+<td align="center">
+<a href="#EM">Emergency Management</a></td>
+</tr>
+</table>
+<table class="sturdy">
+<a id="RCS"><caption style="font-size:18pt;">Resilient Coastal Systems</caption></a>
+<tr>
+<td rowspan="5", align="center">
+2019
+</td>
+<td>
+<p class="hangingindent">Brodie, K., Conery, I., Cohn, N., Spore, N., & Palmsten, M. (2019). Spatial Variability of Coastal Foredune Evolution, Part A: Timescales of Months to Years. Journal of Marine Science and Engineering, 7(5), 124. https://doi.org/10.3390/jmse7050124
+<p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Cohn, N., Hoonhout, B., Goldstein, E., De Vries, S., Moore, L., Durán Vinent, O., & Ruggiero, P. (2019). Exploring Marine and Aeolian Controls on Coastal Foredune Growth Using a Coupled Numerical Model. Journal of Marine Science and Engineering, 7(1), 13. https://doi.org/10.3390/jmse7010013</p>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p class="hangingindent">Bryant, D. B., Anderson Bryant, M., Sharp, J. A., Bell, G. L., & Moore, C. (2019). The response of vegetated dunes to wave attack. Coastal Engineering, 152, 103506. https://doi.org/10.1016/j.coastaleng.2019.103506</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Savant, G., Trahan, C. J., Pettey, L., McAlpin, T. O., Bell, G. L., & McKnight, C. J. (2019). Urban and overland flow modeling with dynamic adaptive mesh and implicit diffusive wave equation solver. Journal of Hydrology, 573, 13–30. https://doi.org/10.1016/j.jhydrol.2019.03.061</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Savant, G., McAlpin, T. O., & Trahan, C. J. (2019). Streamline Upwind Petrov-Galerkin–Based Shallow Water Model for Large-Scale Geophysical Flows in Cartesian and Spherical Coordinates. Journal of Waterway, Port, Coastal, and Ocean Engineering, 145(5), 4019017. https://doi.org/10.1061/(asce)ww.1943-5460.0000521
+</p>
+</td>
+</tr>
+
+<tr>
+<td rowspan="3", align="center">
+2018
+</td>
+<td>
+<p class="hangingindent">Cavaleri, L., Abdalla, S., Benetazzo, A., Bertotti, L., Bidlot, J.-R., Breivik, Ø., … van der Westhuysen, A. J. (2018). Wave modelling in coastal and inner seas. Progress in Oceanography, 167, 164–233. https://doi.org/10.1016/j.pocean.2018.03.010
+<p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Savant, G., Trahan, C. J., Berger, C., McAlpin, J. T., & McAlpin, T. O. (2018). Refinement Indicator for Dynamic-Mesh Adaption in Three-Dimensional Shallow-Water Equation Modeling. Journal of Hydraulic Engineering, 144(2), 6017026. https://doi.org/10.1061/(asce)hy.1943-7900.0001394
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p class="hangingindent">Trahan, C. J., Savant, G., Berger, R. C., Farthing, M., McAlpin, T. O., Pettey, L., … Dawson, C. N. (2018). Formulation and application of the adaptive hydraulics three-dimensional shallow water and transport models. Journal of Computational Physics, 374, 47–90. https://doi.org/10.1016/j.jcp.2018.04.055
+</p>
+</td>
+</tr>
+
+<tr>
+<td rowspan="3", align="center">
+2017
+</td>
+<td>
+<p class="hangingindent">Jensen, R. E., Cialone, A., Smith, J. M., Bryant, M. A., & Hesser, T. J. (2017). Regional Wave Modeling and Evaluation for the North Atlantic Coast Comprehensive Study. Journal of Waterway, Port, Coastal, and Ocean Engineering, 143(2), B4016001. https://doi.org/10.1061/(asce)ww.1943-5460.0000342
+<p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Wilkin, J., Rosenfeld, L., Allen, A., Baltes, R., Baptista, A., He, R., … Smith, J. (2017). Advancing coastal ocean modelling, analysis, and prediction for the US Integrated Ocean Observing System. Journal of Operational Oceanography, 10(2), 115–126. https://doi.org/10.1080/1755876x.2017.1322026
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p class="hangingindent">Savant, G., Berger, C., Trahan, C. J., & McAlpin, T. O. (2017). A Mass-Conservative Finite-Element Numerical Code for Three Dimensional Flows. In World Environmental and Water Resources Congress 2017. American Society of Civil Engineers. https://doi.org/10.1061/9780784480625.006
+</p>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>
+
+<table class="sturdy">
+<a id="WM"><caption style="font-size:18pt;">Watershed Management</caption></a>
+<tr>
+<td rowspan="3", align="center">
+2019
+</td>
+<td>
+<p class="hangingindent">Gibson, S., Osorio, A., Creech, C., Amorim, R., Dircksen, M., Dahl, T., & Koohafkan, M. (2019). Two pool-to-pool spacing periods on large sand-bed rivers: Mega-pools on the Madeira and Mississippi. Geomorphology, 328, 196–210. https://doi.org/10.1016/j.geomorph.2018.12.021
+</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Gibson, S., Ramos, K., Dahl, T., Webber, J. B., & Vuyovich, C. (2019). Comparing Ice Jam Hindcasting Models with Tree Scar Data. Journal of Cold Regions Engineering, 33(3), 4019006. https://doi.org/10.1061/(asce)cr.1943-5495.0000186
+</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Pradhan, N. R. (2019). Estimating growing-season root zone soil moisture from vegetation index-based evapotranspiration fraction and soil properties in the Northwest Mountain region, USA. Hydrological Sciences Journal, 64(7), 771–788. https://doi.org/10.1080/02626667.2019.1593417
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td rowspan="2", align="center">
+2018
+</td>
+<td>
+<p class="hangingindent">Kondolf, G. M., Schmitt, R. J. P., Carling, P., Darby, S., Arias, M., Bizzi, S., … Wild, T. (2018). Changing sediment budget of the Mekong: Cumulative threats and management strategies for a large river basin. Science of The Total Environment, 625, 114–134. https://doi.org/10.1016/j.scitotenv.2017.11.361
+</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Koohafkan, M. C., & Gibson, S. (2018). Geomorphic trajectory and landform analysis using graph theory: A panel data approach to quantitative geomorphology. Progress in Physical Geography: Earth and Environment, 42(6), 679–696. https://doi.org/10.1177/0309133318783143
+</p>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+2017
+</td>
+<td>
+<p class="hangingindent">Gibson, S. A., & Cai, C. (2017). Flow Dependence of Suspended Sediment Gradations. Water Resources Research, 53(11), 9546–9563. https://doi.org/10.1002/2016wr020135
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+2015
+</td>
+<td>
+<p class="hangingindent">Pak, J. H., Fleming, M., Scharffenberg, W., Gibson, S., & Brauer, T. (2015). Modeling Surface Soil Erosion and Sediment Transport Processes in the Upper North Bosque River Watershed, Texas. Journal of Hydrologic Engineering, 20(12), 4015034. https://doi.org/10.1061/(asce)he.1943-5584.0001205
+
+</p>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>
+
+<table class="sturdy">
+<a id="RI"><caption style="font-size:18pt;">Resilient Infrastructure</caption></a>
+<tr>
+<td rowspan="3", align="center">
+2019
+</td>
+<td>
+<p class="hangingindent">Langat, Kumar, & Koech. (2019). Identification of the Most Suitable Probability Distribution Models for Maximum, Minimum, and Mean Streamflow. Water, 11(4), 734. https://doi.org/10.3390/w11040734
+<p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">van Beek, V. M., Robbins, B. A., Hoffmans, G. J. C. M., Bezuijen, A., & van Rijn, L. C. (2019). Use of incipient motion data for backward erosion piping models. International Journal of Sediment Research. https://doi.org/10.1016/j.ijsrc.2019.03.001
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p class="hangingindent">Robbins, B. A., & Griffiths, D. V. (2019). A new fragment for seepage beneath impervious structures. Géotechnique, 69(2), 174–179. https://doi.org/10.1680/jgeot.17.p.209
+</p>
+</td>
+</tr>
+
+<tr>
+<td rowspan="5", align="center">
+2018
+</td>
+<td>
+<p class="hangingindent">Schultz, Martin & Tracy, Ffred & Ellithy, Ghada & Harrelson, Danny & Ryder, Jodi & K. Corcoran, Maureen. (2018). Characterizing the Reliability of Earthen Levees Using System Response Curves derived from Uncertainty Analysis of Geotechnical Simulation Models. 
+<p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Robbins, B. A., Stephens, I. J., Leavell, D. A., López-Soto, J. F., & Montalvo-Bartolomei, A. M. (2018). Laboratory piping tests on fine gravel. Canadian Geotechnical Journal, 55(11), 1552–1563. https://doi.org/10.1139/cgj-2016-0350
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<p class="hangingindent">Wibowo, J. L., & Robbins, B. A. (2018). Discussion of “Erosion Charts for Selected Geomaterials” by Jean-Louis Briaud, Anand V. Govindasamy, and Iman Shafii. Journal of Geotechnical and Geoenvironmental Engineering, 144(10), 7018024. https://doi.org/10.1061/(asce)gt.1943-5606.0001948
+</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Robbins, B. A., Stephens, I. J., Van Beek, V. M., Koelewijn, A. R., & Bezuijen, A. (2019). Field measurements of sand boil hydraulics. Géotechnique, 1–8. https://doi.org/10.1680/jgeot.18.p.151
+</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p class="hangingindent">Robbins, B. A., van Beek, V. M., López-Soto, J. F., Montalvo-Bartolomei, A. M., & Murphy, J. (2018). A novel laboratory test for backward erosion piping. International Journal of Physical Modelling in Geotechnics, 18(5), 266–279. https://doi.org/10.1680/jphmg.17.00016
+</p>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>
+
+<table class="sturdy">
+<a id="EM"><caption style="font-size:18pt;">Emergency Management</caption></a>
+<tr>
+<td align="center">
+2019
+</td>
+<td>
+<p class="hangingindent">Brodie, K. L., Bruder, B. L., Slocum, R. K., & Spore, N. J. (2019). Simultaneous Mapping of Coastal Topography and Bathymetry From a Lightweight Multicamera UAS. IEEE Transactions on Geoscience and Remote Sensing, 1–21. https://doi.org/10.1109/tgrs.2019.2909026
+</p>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+2017
+</td>
+<td>
+<p class="hangingindent">Holman, R. A., Brodie, K. L., & Spore, N. J. (2017). Surf Zone Characterization Using a Small Quadcopter: Technical Issues and Procedures. IEEE Transactions on Geoscience and Remote Sensing, 55(4), 2017–2027. https://doi.org/10.1109/tgrs.2016.2635120
+</p>
+</td>
+</tr>
+</table>
+<a href="#top">Back to top</a>
+
+

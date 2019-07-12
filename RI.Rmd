@@ -1,0 +1,108 @@
+---
+title: "Focus Area: Resilient Infrastructure"
+output:
+  html_document:
+    css: styles.css
+---
+
+<table style="width:100%", border="0", cellpadding="5">
+<caption style="font-size: 20px">Fact Sheets</caption>
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develop load and resistance factor (LFRD) methodology for flood and coastal storm damage reduction structures"; style="font-size: 16px;">
+  <a href="06.19_FY19_ResilientInfrastructure_BalancedFloodStructureDesign_Ebeling.pdf" target="_blank">• Balanced Design of Flood Structures</a>
+</div>
+</body>
+</td>
+<td id="mytable", rowspan="9">
+<img src="RI_1_InternalErosion.bmp" alt="Sand Boil example" style="width: 300px"</img>
+<br><br>
+<img src="RI_2_SurfaceErosion.jpg" alt="Levee breach by overtopping" style="width: 300px"</img>
+<br><br>
+<img src="RI_3_Flume.jpg" alt="Flume to study erosion for different soil conditions under incremental shear stresses" style="width: 300px"</img>
+</td>
+</tr>
+
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develop methodology to remotely assess problem structures and segments in the flood protection system"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientInfrastructure_RemoteMonitoring_Dunbar.pdf" target="_blank">• Remote Monitoring & Sensing</a>
+</div> 
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develop documentation of historical sand boil activity and new treatment technologies"; style="font-size:16px;">
+  <a href="09.18_FY18_ResilientInfrastructure_SandBoil_Robbins.pdf" target="_blank">• Sand Boil Formation & Mitgation</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develop best practices for identifying transient seepage and utilize field data from full-scale instrumented levee embankments to validate numerical models"; style="font-size:16px;">
+  <a href="09.18_FY18_ResilientInfrastructure_TransientSeepage_Corcoran.pdf" target="_blank">• Transient Seepage Analysis</a>
+</div>
+</body>
+</td>
+</tr>
+
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Measure soil susceptibility to backward erosion piping (BEP) and develop numerical models for predicting piping failure"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientInfrastructure_InternalErosion_Robbins.pdf" target="_blank">• Internal Erosion</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Determine erosion rates at varying shear stresses for coarse-grained soil mixes and mechanisms of erosion"; style="font-size:16px;">
+  <a href="09.18_FY18_ResilientInfrastructure_SurfaceErosion_Corcoran.pdf" target="_blank">• Overtopping Erosion for Coarse-Grained Materials</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develop extreme hydrology training modules and stochastic weather generator software for estimating hydrology loading"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientInfrastructure_ExtremeHydrologicEvents_Karlovits.pdf" target="_blank">• Extreme Hydrology</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Utilize an analytical approach to derive system response curves to assess levee reliability"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientInfrastructure_LeveeSystems_Schultz.pdf" target="_blank">• Development of Levee System Response Curves</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Develop a remote sensing inspection system at flood control conduits for assessment of risk prior to personnel entry"; style="font-size:16px;">
+  <a href="06.19_FY19_ResilientInfrastructure_DamConduits_Netchaev.pdf" target="_blank">• Tools to Assess Dam Conduits</a>
+</div>
+</body>
+</tr>
+</td>
+</table>

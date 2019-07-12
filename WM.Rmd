@@ -1,0 +1,88 @@
+---
+title: "Focus Area: Watershed Management"
+output:
+  html_document:
+    css: styles.css
+---
+
+
+<table style="width:100%", border="0", cellpadding="5">
+<caption style="font-size: 20px">Fact Sheets</caption>
+<tr>
+<td align="left", valign="center">
+
+<body>
+<div tooltip="Improve snow-simulation method in the Gridded Surface Hydrologic Analysis (GSSHA) model and include in Hydrologic Engineering Center Hydrologic Modeling System (HEC-HMS)"; style="font-size: 16px;">
+  <a href="09.18_FY18_WatershedManagement_GSSHA-HMS_Follum.pdf" target="_blank">• Enhancement of Snow and Frozen Ground in GSSHA and HMS</a>
+</div>
+</body>
+</td>
+<td id="mytable", rowspan="7">
+<img src="WM_1_GSSHA_HMS.bmp" alt="Snow simulation at Senator Beck Basin in Colorado in GSSHA and HMS" style="width: 300px"</img>
+<br><br>
+<img src="wM_2_HEC-RAS.jpg" alt="HEC-RAS 3D Visualization Viewer" style="width: 300px"</img>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Update to the Gridded Surface Hydrologic Analysis (GSSHA) model to include a library of sediment transport routines (SEDLIB)"; style="font-size:16px;">
+  <a href="06.19_FY19_WatershedManagement_GSSHA-SEDLIB_Downer.pdf">• Integrated Watershed/Stream Sediment Simulation with GSSHA/SEDLIB</a>
+</div> 
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Facilitate rapid post-wildfire assessments using non-Newtownian flow libraries"; style="font-size:16px;">
+  <a href="09.18_FY18_WatershedManagement_Wildfire_Floyd.pdf" target="_blank">• Post-Wildfire Hydraulics and Hydrology Numerical Modeling</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Update and refine screening criteria for applicability of reservoir flushing and bypass techniques"; style="font-size:16px;">
+  <a href="06.19_FY19_WatershedManagement_ReservoirFlushing_Dahl.pdf" target="_blank">• Reservoir Flushing</a>
+</div>
+</body>
+</td>
+</tr>
+
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Update overland flow and sediment simulation features in the Hydrologic Engineering Center Hydrologic Modeling System (HEC-HMS)"; style="font-size:16px;">
+  <a href="06.19_FY19_WatershedManagement_HEC-HMS_Sanchez.pdf" target="_blank">• Enhanced Sediment Simulation with HEC-HMS</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Improve efficiency and accuracy of Hydrologic Engineering Center River Analysis System (HEC-RAS) model"; style="font-size:16px;">
+  <a href="06.19_FY19_WatershedManagement_HEC-RAS_Development_Brunner.pdf" target="_blank">• HEC-RAS Improved Hydraulic Modeling/Application Efficiency</a>
+</div>
+</body>
+</td>
+</tr>
+
+<tr>
+<td align="left", valign="center">
+<body>
+<div tooltip="Include sediment transport capabilities to the Hydrologic Engineering Center River Analysis System (HEC-RAS) model"; style="font-size:16px;">
+  <a href="06.19_FY19_WatershedManagement_HEC-RAS_SedimentTransport_Gibson.pdf" target="_blank">• HEC-RAS Sediment Transport</a>
+</div>
+</body>
+</tr>
+</td>
+</table>
+
