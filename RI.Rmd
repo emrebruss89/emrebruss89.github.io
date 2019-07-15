@@ -4,7 +4,7 @@ output:
   html_document:
     css: styles.css
 ---
-
+<p class="open_sentence">Remote monitoring, numerical models and best practices to improve the condition and functioning of natural and built infrastructure.</p>
 <table style="width:100%", border="0", cellpadding="5">
 <caption style="font-size: 20px">Fact Sheets</caption>
 <tr>

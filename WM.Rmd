@@ -4,7 +4,7 @@ output:
   html_document:
     css: styles.css
 ---
-
+<p class="open_sentence">Advanced methods to assess comprehensive watershed management alternatives, including representation of the full water cycle and impacts to extreme conditions such as post-wildfire hydrology.</p>
 
 <table style="width:100%", border="0", cellpadding="5">
 <caption style="font-size: 20px">Fact Sheets</caption>

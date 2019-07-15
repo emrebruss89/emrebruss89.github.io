@@ -125,5 +125,14 @@ td {
 
 #first_table tr:nth-child(1) td{width: 75%; vertical-align: center;}
 #first_table tr:nth-child(2) td{width: 25%; vertical-align: center;}
-#first_table tr:nth-child(2) img{max-width:200px; max-height:150px; background-position: 50% 50%; background-repeat: no-repeat; background-size: cover;
+.logo img{width: 250px; max-width:250px; max-height:250px; background-position: 50% 50%; background-repeat: no-repeat; background-size: cover;
+}
+
+.open_sentence {
+  width: 95%;
+  font-size: 16px;
+}
+
+.index_paragraph {
+  font-size: 16px;
 }

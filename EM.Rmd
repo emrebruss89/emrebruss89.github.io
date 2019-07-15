@@ -1,10 +1,10 @@
 ---
-title: "Focus Area: Emergency Mangaement"
+title: "Focus Area: Emergency Management"
 output:
   html_document:
     css: styles.css
 ---
-
+<p class="open_sentence">Methods to enable expedient, efficient, and effective data acquisition, data management and information dissemination for life-cycle public safety and all hazard risk mitigation, including rapidly deployed models and reliable damage assessment technologies.</p>
 <table style="width:100%", border="0", cellpadding="5">
 <caption style="font-size: 20px">Fact Sheets</caption>
 <tr>

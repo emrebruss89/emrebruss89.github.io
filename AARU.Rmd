@@ -5,6 +5,7 @@ output:
     css: styles.css
 ---
 
+<p class="open_sentence">Decision-support numerical methods and models to evaluate the degree to which USACE alternatives reduce risks of flood & storm damages over the full project lifecycle, including economic costs and benefits as well as risk and uncertainty.</p>
 <table style="width:100%", border="0", cellpadding="5">
 <caption style="font-size: 20px">Fact Sheets</caption>
 <tr>
