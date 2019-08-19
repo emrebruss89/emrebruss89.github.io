@@ -8,7 +8,7 @@ output:
 <table>
 <tr>
 <td>
-<p style="font-size:18px">Techical Director, Flood & Coastal Risk Management R&D
+<p style="font-size:18px">Techical Director, Flood & Coastal Risk Management
 <br>
 Dr. Julie Rosati, CHL
 <br>
@@ -18,11 +18,13 @@ Julie.D.Rosati@usace.army.mil
 </tr>
 <tr>
 <td>
-<p style="font-size:18px">F&CS Program Manager
+<p style="font-size:18px">Associate Technical Director, Flood & Coastal Risk Management
 <br>
-Ms. Mary Cialone, CHL
+F&CS Program Manager
 <br>
-Mary.A.Cialone@usace.army.mil
+Dr. Brandon Boyd, CHL
+<br>
+Brandon.M.Boyd@erdc.dren.mil
 </p>
 </td>
 </tr>

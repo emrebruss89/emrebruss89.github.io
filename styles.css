@@ -63,7 +63,7 @@ body {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >
-        a:hover, .navbar-default .navbar-nav > .active > a:focus {; /*BACKGROUND color for active*/;
+        a:hover, .navbar-default .navbar-nav > .active > a:focus {background-color: #6baed6; /*BACKGROUND color for active*/;
 }
 
 .navbar-default {
@@ -135,4 +135,9 @@ td {
 
 .index_paragraph {
   font-size: 16px;
+}
+
+#footer {
+  postion: relative;
+  height: 75px;
 }

@@ -4,7 +4,7 @@ output:
   html_document:
     css: styles.css
 ---
-
+<p style="font-size:16px">The following are tools developed by USACE, other Federal Agencies, and academic partners to help USACE districts and other users evaluate flood risk in inland, estuarine, and coastal systems.</p>
 <table style="width:100%">
 <a id="AARU"><caption style="font-size:18px">Alternative Analysis Risk & Uncertainty</caption></a>
 <tr>
@@ -30,7 +30,7 @@ output:
 
 <tr>
 <td>
-<a href="https://github.com/ncohn/Windsurf" target="_blank">Windsurf model framework code</a>
+<a href="https://github.com/ncohn/Windsurf" target="_blank">Windsurf</a>
 </td>
 </tr>
 

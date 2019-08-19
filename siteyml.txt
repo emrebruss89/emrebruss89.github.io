@@ -24,7 +24,7 @@ navbar:
           href: TRTN.html
         - text: "Journal Articles"
           href: JA.html
-    - text: "Wiki"
+    - text: "Wiki (USACE Only)"
     - href: "https://wiki.erdc.dren.mil/Flood_%26_Coastal_Systems_Program"
     - text: "Contact"
       href: contact.html
@@ -34,5 +34,3 @@ output_dir: "."
 output:
   html_document:
     css: styles.css
-    includes: 
-      after_body: footer.html
